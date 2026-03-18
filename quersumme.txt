@@ -1,3 +1,7 @@
 pubic static void qsumme(int zahl){
 //abrakadabra;
 }
+
+pubic static int ItQsumme(int zahl){
+//Abrakadabra 2;
+}

@@ -1,3 +1,5 @@
 Main 1 - Initialization 
 
 Funktion1();
+
+itQsumme(qsumme(12345));
